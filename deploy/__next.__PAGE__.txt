@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[5500,["/_next/static/chunks/3rdqn8rx95pw7.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/3-9v5llyj1vf9.js"],"Image"]
+3:I[22016,["/_next/static/chunks/3rdqn8rx95pw7.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/3-9v5llyj1vf9.js"],""]
+4:I[97367,["/_next/static/chunks/3rdqn8rx95pw7.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"children":["$","section",null,{"children":[["$","$L2",null,{"src":"/images/home.png","alt":"Imagem principal do portal Esporte News","width":800,"height":400}],["$","h1",null,{"children":"Esporte News"}],["$","p",null,{"children":"Bem-vindo ao Esporte News, um portal objetivo de notícias esportivas."}],["$","p",null,{"children":"Aqui você encontrará notícias e conteúdos sobre futebol, basquete e Fórmula 1."}],["$","nav",null,{"children":[["$","$L3",null,{"href":"/futebol","children":"Futebol"}],["$","br",null,{}],["$","$L3",null,{"href":"/basquete","children":"Basquete"}],["$","br",null,{}],["$","$L3",null,{"href":"/formula1","children":"Fórmula 1"}]]}]]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/3-9v5llyj1vf9.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"qrGY23Ry2ZBxigk5I9Z8N"}
+6:null
